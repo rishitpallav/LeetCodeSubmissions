@@ -19,11 +19,7 @@ class Solution {
         }
 
         for(int[] q : queries) {
-            if (allPre[q[0]].contains(q[1])) {
-                result.add(true);
-            } else {
-                result.add(false);
-            }
+            result.add(allPre[q[0]].contains(q[1]));
         }
 
         return result;
