@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
