@@ -1,10 +1,6 @@
 class Solution {
     public int maxFreeTime(int eventTime, int k, int[] startTime, int[] endTime) {
         int n = startTime.length;
-        
-        if (n == 0) {
-            return eventTime;
-        }
 
         int[] presumTimes = new int[n+2];
         for (int i = 0; i < n; i++ ) {
