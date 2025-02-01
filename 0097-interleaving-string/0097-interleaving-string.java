@@ -20,10 +20,12 @@ class Solution {
         }
 
         if (s1P < s1.length() && s1.charAt(s1P) == s3.charAt(s1P + s2P) && check(s1, s2, s3, s1P+1, s2P, memo)) {
+            memo.put(currentPair, true);
             return true;
         }
 
         if (s2P < s2.length() && s2.charAt(s2P) == s3.charAt(s1P + s2P) && check(s1, s2, s3, s1P, s2P+1, memo)) {
+            memo.put(currentPair, true);
             return true;
         }
         memo.put(currentPair, false);
