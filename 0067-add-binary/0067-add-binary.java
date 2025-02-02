@@ -1,41 +1,47 @@
 class Solution {
     public String addBinary(String a, String b) {
-        StringBuilder sb = new StringBuilder();
+        int aL = a.length()-1;
+        int bL = b.length()-1;
 
-        int n = a.length() -1;
-        int m = b.length() -1;
-        int carry = 0;
+        boolean carry = false;
+        boolean sum = false;
 
-        while (n >= 0 || m>= 0) {
-            int countOnes = 0;
-            if (n >= 0 && a.charAt(n) == '1') {
-                countOnes++;
-            }
-            if ( m >= 0 && b.charAt(m) == '1') {
-                countOnes++;
-            }
-            n--;
-            m--;
-            countOnes += carry;
+        StringBuffer result = new StringBuffer();
 
-            if (countOnes == 3) {
-                sb.insert(0, "1");
-                carry = 1;
-            } else if (countOnes == 2) {
-                sb.insert(0, "0");
-                carry = 1;
-            } else if (countOnes == 1) {
-                sb.insert(0,"1");
-                carry = 0;
-            } else {
-                sb.insert(0,"0");
-            }
+        while (aL >= 0 || bL >= 0 || carry) {
+            boolean i1 = (aL >= 0 ? (a.charAt(aL)=='1'?true:false):false);
+            boolean i2 = (bL >= 0 ? (b.charAt(bL)=='1'?true:false):false);
+            boolean i3 = carry;
+
+            boolean o1 = i1 ^ i2;
+            boolean o2 = i1 & i2;
+
+            sum = o1 ^ i3;
+
+            boolean o3 = o1 & i3;
+            
+            carry = o2 | o3;
+
+            result.append(sum?"1":"0");
+            aL--;
+            bL--;
         }
 
-        if (carry == 1) {
-            sb.insert(0, "1");
-        }
-
-        return sb.toString();
+        return result.reverse().toString();
     }
 }
+
+
+/*
+
+ A B C  S C
+ 0 0 0  0 0
+ 0 0 1  1 0
+ 0 1 0  1 0
+ 0 1 1  0 1
+ 1 0 0  1 0
+ 1 0 1  0 1
+ 1 1 0  0 1
+ 1 1 1  1 1
+
+ */
