@@ -9,13 +9,13 @@ class Solution {
             boolean three = i%3==0;
             boolean five = i%5==0;
 
-            if (three) {
+            if (three && five) {
+                result = "FizzBuzz";
+            } else if (three) {
                 result = "Fizz";
-            }
-            if (five) {
-                result = result + "Buzz";
-            }
-            if (!three && !five) {
+            } else if (five) {
+                result = "Buzz";
+            } else {
                 result = Integer.toString(i);
             }
 
