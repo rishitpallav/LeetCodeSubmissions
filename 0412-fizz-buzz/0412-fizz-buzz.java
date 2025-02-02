@@ -6,13 +6,16 @@ class Solution {
         for (int i = 1; i <= n; i++ ) {
             String result = "";
 
-            if (i % 3 == 0) {
+            boolean three = i%3==0;
+            boolean five = i%5==0;
+
+            if (three) {
                 result = "Fizz";
             }
-            if (i % 5 == 0) {
+            if (five) {
                 result = result + "Buzz";
             }
-            if (i%3!=0 && i%5!=0) {
+            if (!three && !five) {
                 result = Integer.toString(i);
             }
 
