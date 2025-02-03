@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
