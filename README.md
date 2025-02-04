@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
