@@ -1,6 +1,6 @@
 class Solution {
     public int findLHS(int[] nums) {
-        Map<Integer, Integer> counter = new HashMap<>();
+        Map<Integer, Integer> counter = new TreeMap<>();
 
         for (int i = 0; i < nums.length; i++ ) {
             counter.put(nums[i], counter.getOrDefault(nums[i],0)+1);
