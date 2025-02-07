@@ -12,9 +12,6 @@ class Solution {
             if (counter.containsKey(entry.getKey()+1)) {
                 result = Math.max(result, entry.getValue() + counter.get(entry.getKey()+1));
             }
-            if (counter.containsKey(entry.getKey()-1)) {
-                result = Math.max(result, entry.getValue() + counter.get(entry.getKey()-1));
-            }
         }
 
         return result;
