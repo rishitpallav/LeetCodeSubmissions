@@ -2,29 +2,24 @@ class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         Map<String, List<String>> dict = new HashMap<>();
 
+        Set<String> wordSet = new HashSet<>();
+
+        for (String w : wordList) {
+            wordSet.add(w);
+        }
+
+        wordList.add(beginWord);
+
         for (int i = 0; i < wordList.size(); i++ ) {
-            List<String> valueSet = new ArrayList<>();
-            for (int j = 0; j < wordList.size(); j++ ) {
-                if (compareTwoStrings(wordList.get(i), wordList.get(j))) {
-                    valueSet.add(wordList.get(j));
-                }
-            }
-            dict.put(wordList.get(i), valueSet);
+            dict.put(wordList.get(i), relatedWords(wordList.get(i), wordSet));
         }
 
         Queue<String> bfsQueue = new LinkedList<>();
+        bfsQueue.add(beginWord);
 
-        for (int i = 0; i < wordList.size(); i++ ) {
-            if (compareTwoStrings(beginWord, wordList.get(i))) {
-                bfsQueue.add(wordList.get(i));
-                if (wordList.get(i).equals(endWord)) {
-                    return 2;
-                }
-            }
-        }
 
         Set<String> previousEncountered = new HashSet<>();
-        int result = 2;
+        int result = 1;
         while (!bfsQueue.isEmpty()) {
             Queue<String> newBfsQueue = new LinkedList<>();
             result++;
@@ -46,16 +41,24 @@ class Solution {
         return 0;
     }
 
-    public boolean compareTwoStrings(String s1, String s2) {
-        boolean caught = false;
-        for (int i = 0; i < s1.length(); i++ ) {
-            if (s1.charAt(i) != s2.charAt(i)) {
-                if (caught) {
-                    return false;
+    public List<String> relatedWords(String s, Set<String> wordSet) {
+        List<String> result = new ArrayList<>();
+        char[] sCharArray = s.toCharArray();
+
+        for (int i = 0; i < sCharArray.length; i++ ) {
+            char originalCharacter = sCharArray[i];
+            for (char j = 'a'; j <= 'z'; j++ ) {
+                if (j == originalCharacter) {
+                    continue;
                 }
-                caught = true;
+                sCharArray[i] = j;
+                if (wordSet.contains(new String(sCharArray))) {
+                    result.add(new String(sCharArray));
+                }
             }
+            sCharArray[i] = originalCharacter;
         }
-        return true;
+
+        return result;
     }
 }
