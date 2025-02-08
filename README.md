@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0443-string-compression) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
 | ------- |
