@@ -6,7 +6,6 @@ class Solution {
         }
 
         StringBuilder result = new StringBuilder();
-        int carry = 0;
         boolean isNeg = num < 0;
         num = Math.abs(num);
 
