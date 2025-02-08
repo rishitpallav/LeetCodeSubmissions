@@ -24,7 +24,6 @@ class Solution {
             return;
         int c = (n*10)+root.val;
         if (root.left == null && root.right == null) {
-            System.out.println(c);
             sum += c;
             return;
         }
