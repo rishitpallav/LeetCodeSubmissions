@@ -9,17 +9,19 @@ class Solution {
 
         for (String s : logs) {
             String[] log = s.split(":");
+            int timestamp = Integer.parseInt(log[2]);
             if (log[1].charAt(0) == 's') {
                 if (!callStack.isEmpty()) {
-                    totalTime[callStack.peek()] += Integer.parseInt(log[2]) - previousTime;
+                    totalTime[callStack.peek()] += timestamp - previousTime;
                 }
                 callStack.push(Integer.parseInt(log[0]));
-                previousTime = Integer.parseInt(log[2]);
             } else {
-                totalTime[callStack.peek()] += Integer.parseInt(log[2]) - previousTime + 1;
+                totalTime[callStack.peek()] += timestamp - previousTime + 1;
                 callStack.pop();
-                previousTime = Integer.parseInt(log[2]) + 1;
+                // Because we need to compare previousTime from the next, ignoring this timeblock. This timeblock is used.
+                timestamp++;
             }
+            previousTime = timestamp;
         }
 
         return totalTime;
