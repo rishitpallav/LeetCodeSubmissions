@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
+| [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -243,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
