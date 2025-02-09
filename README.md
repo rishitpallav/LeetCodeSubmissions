@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0120-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0457-circular-array-loop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0457-circular-array-loop) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0457-circular-array-loop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
