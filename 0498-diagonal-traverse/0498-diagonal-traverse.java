@@ -10,9 +10,9 @@ class Solution {
 
         boolean upwards = true;
 
-        while (i < n && j < m && resultTracker != result.length) {
+        while (resultTracker != result.length) {
             if (upwards) {
-                while (i >= 0 && j < m && resultTracker != result.length) {
+                while (i >= 0 && j < m) {
                     result[resultTracker] = mat[i][j];
                     resultTracker++;
                     i--;
@@ -26,7 +26,7 @@ class Solution {
                 upwards = false;
 
             } else {
-                while (i < n && j >= 0 && resultTracker != result.length) {
+                while (i < n && j >= 0) {
                     result[resultTracker] = mat[i][j];
                     resultTracker++;
                     i++;
