@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0576-out-of-boundary-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0576-out-of-boundary-paths) |
+| [0688-knight-probability-in-chessboard](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0688-knight-probability-in-chessboard) |
 ## Greedy
 |  |
 | ------- |
