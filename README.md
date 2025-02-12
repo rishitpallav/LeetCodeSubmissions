@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3429-special-array-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Prefix Sum
 |  |
