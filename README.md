@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1755-defuse-the-bomb](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Design
