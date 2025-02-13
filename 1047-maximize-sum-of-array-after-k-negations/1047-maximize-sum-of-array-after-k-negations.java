@@ -15,14 +15,10 @@ class Solution {
         }
 
         if (k %2 != 0) {
-            if (nums[i] < 0 || i == 0) {
+            if (nums[i] < 0 || i == 0 || nums[i] < nums[i-1]) {
                 nums[i] *= -1;
             } else {
-                if (nums[i] < nums[i-1]) {
-                    nums[i] *= -1;
-                } else {
-                    nums[i-1] *= -1;
-                }
+                nums[i-1] *= -1;
             }
         }
 
