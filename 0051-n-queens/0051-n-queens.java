@@ -2,10 +2,12 @@ class Solution {
 
     int[][] board;
     List<List<String>> result;
+    boolean[] columnFilled;
 
     public List<List<String>> solveNQueens(int n) {
         board = new int[n][n];
         result = new ArrayList<>();
+        columnFilled = new boolean[n];
 
         findQueens(n, 0);
 
@@ -32,14 +34,21 @@ class Solution {
             if (board[index][j] == 0) {
                 if (checkValidity(index, j, n)) {
                     board[index][j] = 1;
+                    columnFilled[j] = true;
                     findQueens(n, index+1);
                     board[index][j] = 0;
+                    columnFilled[j] = false;
                 }
             }
         }
     }
 
     boolean checkValidity(int row, int column, int n) {
+
+        if (columnFilled[column]) {
+            return false;
+        }
+        
         for (int i = row, j = column; i >= 0 && j >= 0; i--, j-- ) {
             if (board[i][j] == 1) return false;
         }
@@ -53,22 +62,6 @@ class Solution {
         }
 
         for (int i = row, j = column; i < n && j < n; i++, j++ ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; i >= 0; i-- ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; i < n; i++ ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; j >= 0; j-- ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; j < n; j++ ) {
             if (board[i][j] == 1) return false;
         }
 
