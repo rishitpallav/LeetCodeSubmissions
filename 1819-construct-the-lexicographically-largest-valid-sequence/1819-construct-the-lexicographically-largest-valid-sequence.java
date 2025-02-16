@@ -1,53 +1,39 @@
 class Solution {
     int[] result;
+    boolean[] used;
     public int[] constructDistancedSequence(int n) {
         result = new int[(2*n)-1];
-        Set<Integer> used = new HashSet<>();
+        used = new boolean[n+1];
 
-        constructDistancedSequence(n, used);
+        fillSequence(n);
 
         return result;
     }
 
-    boolean constructDistancedSequence(int n, Set<Integer> used) {
-        int current = -1;
-        for (int i = 0; i < result.length; i++ ) {
-            if (result[i] == 0) {
-                current = i;
-                break;
-            }
-        }
+    boolean fillSequence(int n) {
+        int current = 0;
+        for (; current < result.length; current++ ) {
 
-        if (current == -1) {
-            return true;
-        }
+            if (result[current] != 0) continue;
 
-        for (int i = n; i > 0; i-- ) {
-            if (i == 1) {
-                if (!used.contains(1)) {
-                    used.add(1);
-                    result[current] = 1;
-                    if(constructDistancedSequence(n, used)) {
-                        return true;
-                    }
-                    result[current] = 0;
-                    used.remove(1);
-                }
-            } else {
-                if (!used.contains(i) && current + i < result.length && result[current+i] == 0) {
-                    used.add(i);
+            for (int i = n; i > 0; i-- ) {
+
+                if (used[i]) continue;
+
+                if (i == 1 || (current + i < result.length && result[current+i] == 0)) {
+                    used[i] = true;
                     result[current] = i;
-                    result[current + i] = i;
-                    if (constructDistancedSequence(n, used)) {
+                    if (i > 1) result[current + i] = i;
+                    if (fillSequence(n)) {
                         return true;
                     }
                     result[current] = 0;
-                    result[current + i] = 0;
-                    used.remove(i);
+                    if (i > 1) result[current + i] = 0;
+                    used[i] = false;
                 }
             }
+            return false;
         }
-
-        return false;
+        return true;
     }
 }
