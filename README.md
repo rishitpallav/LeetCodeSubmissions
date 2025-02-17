@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
