@@ -1,7 +1,7 @@
 class Solution {
-    Set<Integer>[] rowSet;
-    Set<Integer>[] colSet;
-    Set<Integer>[][] matSet;
+    Set<Character>[] rowSet;
+    Set<Character>[] colSet;
+    Set<Character>[][] matSet;
 
     public void solveSudoku(char[][] board) {
         
@@ -23,10 +23,9 @@ class Solution {
         for (int i = 0; i < 9; i++ ) {
             for (int j = 0; j < 9; j++ ) {
                 if (board[i][j] != '.') {
-                    int temp = board[i][j] - '0';
-                    rowSet[i].add(temp);
-                    colSet[j].add(temp);
-                    matSet[i/3][j/3].add(temp);
+                    rowSet[i].add(board[i][j]);
+                    colSet[j].add(board[i][j]);
+                    matSet[i/3][j/3].add(board[i][j]);
                 }
             }
         }
@@ -38,9 +37,9 @@ class Solution {
         for (int row = 0; row < 9; row++ ) {
             for (int column = 0; column < 9; column++ ) {
                 if (board[row][column] == '.') {
-                    for (int i = 1; i <= 9; i++ ) {
+                    for (char i = '1'; i <= '9'; i++ ) {
                         if (!rowSet[row].contains(i) && !colSet[column].contains(i) && !matSet[row/3][column/3].contains(i)) {
-                            board[row][column] = (char) ('0' + i);
+                            board[row][column] = i;
                             rowSet[row].add(i);
                             colSet[column].add(i);
                             matSet[row/3][column/3].add(i);
