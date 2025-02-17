@@ -35,38 +35,30 @@ class Solution {
     }
 
     boolean backtrack(char[][] board) {
-        int row = -1, column = -1;
-        OUTER:
-        for (int i = 0; i < 9; i++ ) {
-            for (int j = 0; j < 9; j++ ) {
-                if (board[i][j] == '.') {
-                    row = i;
-                    column = j;
-                    break OUTER;
+        for (int row = 0; row < 9; row++ ) {
+            for (int column = 0; column < 9; column++ ) {
+                if (board[row][column] == '.') {
+                    for (int i = 1; i <= 9; i++ ) {
+                        if (!rowSet[row].contains(i) && !colSet[column].contains(i) && !matSet[row/3][column/3].contains(i)) {
+                            board[row][column] = (char) ('0' + i);
+                            rowSet[row].add(i);
+                            colSet[column].add(i);
+                            matSet[row/3][column/3].add(i);
+                            if (backtrack(board)) {
+                                return true;
+                            }
+                            board[row][column] = '.';
+                            rowSet[row].remove(i);
+                            colSet[column].remove(i);
+                            matSet[row/3][column/3].remove(i);
+                        }
+                    }
+                    return false;
                 }
             }
         }
 
-        if (row == -1 && column == -1) {
-            return true;
-        }
 
-        for (int i = 1; i <= 9; i++ ) {
-            if (!rowSet[row].contains(i) && !colSet[column].contains(i) && !matSet[row/3][column/3].contains(i)) {
-                board[row][column] = (char) ('0' + i);
-                rowSet[row].add(i);
-                colSet[column].add(i);
-                matSet[row/3][column/3].add(i);
-                if (backtrack(board)) {
-                    return true;
-                }
-                board[row][column] = '.';
-                rowSet[row].remove(i);
-                colSet[column].remove(i);
-                matSet[row/3][column/3].remove(i);
-            }
-        }
-
-        return false;
+        return true;
     }
 }
