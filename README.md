@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0657-robot-return-to-origin](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0657-robot-return-to-origin) |
+| [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
+| [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
+| [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Depth-First Search
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0457-circular-array-loop) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 ## Counting
 |  |
 | ------- |
