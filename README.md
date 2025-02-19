@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
