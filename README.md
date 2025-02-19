@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0904-leaf-similar-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0904-leaf-similar-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
