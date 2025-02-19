@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
+| [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Binary Tree
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
+| [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
 ## Array
 |  |
 | ------- |
