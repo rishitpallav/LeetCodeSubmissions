@@ -1,5 +1,5 @@
 class TrieNode {
-    Map<Character, TrieNode> children = new HashMap<>();
+    TrieNode[] children = new TrieNode[26];
     boolean isEndWord = false;
 }
 
@@ -14,38 +14,39 @@ class WordDictionary {
     public void addWord(String word) {
         TrieNode temp = root;
         for (char c : word.toCharArray()) {
-            temp.children.putIfAbsent(c, new TrieNode());
-            temp = temp.children.get(c);
+            int idx = c - 'a';
+            if (temp.children[idx] == null) {
+                temp.children[idx] = new TrieNode();
+            }
+            temp = temp.children[idx];
         }
         temp.isEndWord = true;
     }
     
     public boolean search(String word) {
         TrieNode temp = root;
-        return dfs(word, temp, 0);
+        return dfs(word.toCharArray(), temp, 0);
     }
 
-    boolean dfs(String word, TrieNode current, int index) {
-        if (index == word.length()) {
+    boolean dfs(char[] word, TrieNode current, int index) {
+        if (index == word.length) {
             return current.isEndWord;
         }
-        if (current == null) {
-            return false;
-        }
-        char c = word.charAt(index);
+        char c = word[index];
         
         if (c == '.') {
-            for (TrieNode child : current.children.values()) {
-                if (dfs(word, child, index+1)) {
+            for (TrieNode child : current.children) {
+                if (child != null && dfs(word, child, index+1)) {
                     return true;
                 }
             }
             return false;
         } else {
-            if (!current.children.containsKey(c)) {
+            int idx = c - 'a';
+            if (current.children[idx] == null) {
                 return false;
             }
-            return dfs(word, current.children.get(c), index+1);
+            return dfs(word, current.children[idx], index+1);
         }
     }
 }
