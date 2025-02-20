@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0457-circular-array-loop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0457-circular-array-loop) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
