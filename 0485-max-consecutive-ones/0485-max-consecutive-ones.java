@@ -4,13 +4,15 @@ class Solution {
         int maxLength = 0;
 
         for (int n : nums) {
-            if (n == 0) counter = 0;
+            if (n == 0){
+                maxLength = Math.max(maxLength, counter);
+                counter = 0;
+            }
             else {
                 counter++;
-                maxLength = Math.max(maxLength, counter);
             }
         }
 
-        return maxLength;
+        return Math.max(maxLength, counter);
     }
 }
