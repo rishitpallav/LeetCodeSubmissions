@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0904-leaf-similar-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Binary Tree
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0904-leaf-similar-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2107-find-unique-binary-string) |
@@ -368,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
