@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2386-min-max-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2386-min-max-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2386-min-max-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2386-min-max-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2480-find-subarrays-with-equal-sum) |
