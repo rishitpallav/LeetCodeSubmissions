@@ -53,9 +53,6 @@ class Solution {
             }
         }
 
-        System.out.println(Arrays.toString(least));
-        System.out.println(Arrays.toString(most));
-
         int l = 0;
         for (int i : least) {
             l = (l*10) + (i - '0');
