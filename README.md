@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Depth-First Search
