@@ -17,27 +17,43 @@ class Solution {
     
     public TreeNode recoverFromPreorder(String traversal) {
 
-        String[] traversals = traversal.split("-");
-        TreeNode root = new TreeNode(Integer.parseInt(traversals[0]));
-
+        int index = 0;
         Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
 
-        int d = 1;
+        while (index < traversal.length() ) {
+            
+            int depth = 0;
 
-        for (int i = 1; i < traversals.length; i++ ) {
-            if (traversals[i].equals("")) {
-                d++;
-            } else {
-                while (stack.size() > d) {
-                    stack.pop();
-                }
-                stack.push(insertNode(stack.peek(), Integer.parseInt(traversals[i])));
-                d = 1;
+            while (traversal.charAt(index) == '-') {
+                depth++;
+                index++;
             }
+
+            int val = 0;
+            while(index < traversal.length() && traversal.charAt(index) != '-') {
+                val = (val * 10) + (traversal.charAt(index) - '0');
+                index++;
+            }
+            
+            TreeNode node = new TreeNode(val);
+
+            if (depth == 0) {
+                stack.push(node);
+                continue;
+            }
+
+            while (stack.size() > depth) {
+                stack.pop();
+            }
+
+            stack.push(insertNode(stack.peek(), val));
+        }
+
+        while (stack.size() > 1) {
+            stack.pop();
         }
         
-        return root;
+        return stack.peek();
     }
 
     TreeNode insertNode(TreeNode root, int val) {
