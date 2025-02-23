@@ -15,7 +15,14 @@
  */
 class Solution {
     int index = 0;
+    Map<Integer, Integer> elements;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        elements = new HashMap<>();
+
+        for (int i = 0; i < inorder.length; i++ ) {
+            elements.put(inorder[i], i);
+        }
+
         return construct(preorder, inorder, 0, inorder.length);
     }
 
@@ -30,12 +37,18 @@ class Solution {
             return new TreeNode(inorder[start]);
         }
 
-        int i = start;
-        for (i = start; i < end; i++ ) {
-            if (inorder[i] == preorder[index]) {
-                break;
-            }
-        }
+        
+        // linear search:
+        // int i = start;
+        // for (i = start; i < end; i++ ) {
+        //     if (inorder[i] == preorder[index]) {
+        //         break;
+        //     }
+        // }
+
+        // pre-computed elements
+        int i = elements.get(preorder[index]);
+
 
         TreeNode current = new TreeNode(inorder[i]);
         index++;
