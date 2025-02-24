@@ -1,11 +1,9 @@
 class Solution {
     Map<Integer, List<Integer>> treeConnections;
-    Set<Integer> visited;
     Map<Integer, Integer> bobTraversal;
     int result;
     public int mostProfitablePath(int[][] edges, int bob, int[] amount) {
         treeConnections = new HashMap<>();
-        visited = new HashSet<>();
         bobTraversal = new HashMap<>();
         result = Integer.MIN_VALUE;
 
@@ -76,8 +74,6 @@ class Solution {
                 visited.remove(i);
             }
         }
-
-        System.out.println(total + ", " + found);
 
         if (!found) {
             result = Math.max(result, total);
