@@ -5,43 +5,20 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         result = new ArrayList<>();
 
-        backtrack("", n, 0, 0);
+        backtrack("(", n-1, n);
 
         return result;
     }
 
-    void backtrack(String s, int n, int open, int close) {
-        if (s.length() == n*2) {
-            if (checkValid(s)) {
-                result.add(s);
-            }
+    void backtrack(String s, int open, int close) {
+        if(open > 0){
+            backtrack(s + "(", open - 1, close);
         }
-        if (close > open) {
-            return;
+        if(close > 0 && open < close){
+            backtrack(s + ")", open, close - 1);
         }
-        if (open < n) {
-            backtrack(s + "(", n, open+1, close);
+        if(open == 0 && close == 0){
+            result.add(s);
         }
-        if (close < n) {
-            backtrack(s + ")", n, open, close + 1);
-        }
-    }
-
-    boolean checkValid(String s) {
-        Stack<Character> st = new Stack<>();
-
-        for (char c : s.toCharArray()) {
-            if (c == ')') {
-                if (!st.empty() && st.peek() == '(') {
-                    st.pop();
-                } else {
-                    return false;
-                }
-            } else {
-                st.push('(');
-            }
-        }
-
-        return st.empty();
     }
 }
