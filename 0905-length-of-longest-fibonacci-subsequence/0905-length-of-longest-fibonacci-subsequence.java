@@ -8,23 +8,19 @@ class Solution {
 
         int result = 0;
 
-        for (int i = 0; i < arr.length -2; i++) {
-            for (int j = i+1; j < arr.length - 1; j++ ) {
-                int first = i;
-                int second = j;
-                int third = j+1;
-                int current = 2;
-                while (indexMap.containsKey(arr[first] + arr[second])) {
-                    current++;
-                    int temp = indexMap.get(arr[first] + arr[second]);
-                    first = second;
-                    second = temp;
+        int[][] memo = new int[arr.length][arr.length];
+
+        for (int i = arr.length-1; i > 0; i--) {
+            for (int j = i-1; j > -1; j-- ) {
+                if (indexMap.containsKey(arr[i] + arr[j])) {
+                    memo[j][i] = 1 + memo[i][indexMap.get(arr[i] + arr[j])];
+                    result = Math.max(result, memo[j][i]);
+                } else {
+                    memo[j][i] = 2;
                 }
-                if (current > 2)
-                    result = Math.max(result, current);
             }
         }
 
-        return result;
+        return result > 2?result:0;
     }
 }
