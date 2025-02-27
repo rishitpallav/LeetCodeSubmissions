@@ -5,20 +5,21 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         result = new ArrayList<>();
 
-        backtrack("(", n-1, n);
+        backtrack("", n, 0, 0);
 
         return result;
     }
 
-    void backtrack(String s, int open, int close) {
-        if(open > 0){
-            backtrack(s + "(", open - 1, close);
-        }
-        if(close > 0 && open < close){
-            backtrack(s + ")", open, close - 1);
-        }
-        if(open == 0 && close == 0){
+    void backtrack(String s, int n, int open, int close) {
+        if (s.length() == n*2) {
             result.add(s);
+            return;
+        }
+        if (open < n) {
+            backtrack(s + "(", n, open+1, close);
+        }
+        if (close < open) {
+            backtrack(s + ")", n, open, close + 1);
         }
     }
 }
