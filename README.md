@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0457-circular-array-loop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0457-circular-array-loop) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -487,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
