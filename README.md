@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0636-exclusive-time-of-functions) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
