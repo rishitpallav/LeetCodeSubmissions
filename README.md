@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0120-triangle) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
