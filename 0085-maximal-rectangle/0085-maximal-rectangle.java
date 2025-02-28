@@ -12,9 +12,7 @@ class Solution {
                     lengths[j] += 1;
                 }
             }
-            System.out.println(Arrays.toString(lengths));
             maxRectangle = Math.max(maxRectangle, largestRectangleArea(lengths));
-            System.out.println(maxRectangle);
         }
 
         return maxRectangle;
