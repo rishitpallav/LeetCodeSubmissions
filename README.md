@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Depth-First Search
 |  |
@@ -509,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
 <!---LeetCode Topics End-->
