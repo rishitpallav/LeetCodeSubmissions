@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1755-defuse-the-bomb](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1755-defuse-the-bomb) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Stack
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -515,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
