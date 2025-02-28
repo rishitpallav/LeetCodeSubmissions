@@ -1,17 +1,19 @@
 class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
-        PriorityQueue<int[]> pos = new PriorityQueue<>((a, b) -> b[0] - a[0]);
+        int[][] pos = new int[position.length][2];
 
         for (int i = 0; i < position.length; i++ ) {
-            pos.add(new int[]{position[i], speed[i]});
+            pos[i][0] = position[i];
+            pos[i][1] = speed[i];
         }
 
-        int result = 0;
-        double previous = 0;
+        Arrays.sort(pos, (a, b) -> Integer.compare(b[0], a[0]));
 
-        while (!pos.isEmpty()) {
-            int[] current = pos.poll();
-            double currentPos = (double) (target - current[0]) / current[1];
+        int result = 1;
+        double previous = (double) (target - pos[0][0]) / pos[0][1];
+
+        for (int i = 1; i < position.length; i++ ) {
+            double currentPos = (double) (target - pos[i][0]) / pos[i][1];
             if (currentPos > previous) {
                 result++;
                 previous = currentPos;
