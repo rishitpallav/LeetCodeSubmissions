@@ -9,27 +9,26 @@ class Solution {
 
         while (top <= bottom) {
 
-            int mid = ((top + bottom) / 2);
+            int mid = top + ((bottom - top) / 2);
 
             if (target < matrix[mid][0]) {
                 bottom = mid - 1;
             } else if (target > matrix[mid][m-1]) {
                 top = mid + 1;
             } else {
+                top = mid;
                 break;
             }
         }
 
-        if (!(top <= bottom)) {
-            return false;
-        }
+        if (top >= n || top < 0) return false;
 
-        int row = ((top + bottom) / 2);
+        int row = top;
         int left = 0;
         int right = m-1;
 
         while (left <= right) {
-            int innerMid = ((left + right)/2);
+            int innerMid = left + (right - left)/2;
 
             if (target < matrix[row][innerMid]) {
                 right = innerMid - 1;
