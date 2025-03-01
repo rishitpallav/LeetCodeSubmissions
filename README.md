@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
