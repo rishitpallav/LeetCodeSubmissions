@@ -16,11 +16,7 @@ class Solution {
         }
 
         if (i < nums.length) {
-            if (nums[i] == nums[i-1]) {
-                nums[pointer++] = 0;
-            } else {
-                nums[pointer++] = nums[i];
-            }
+            nums[pointer++] = nums[i];
         }
 
         for (;pointer < nums.length; pointer++ ) {
