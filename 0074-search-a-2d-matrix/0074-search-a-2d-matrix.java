@@ -9,7 +9,7 @@ class Solution {
 
         while (top <= bottom) {
 
-            int mid = ((top + bottom) / 2);
+            int mid = top + (bottom - top)/2;
 
             if (target < matrix[mid][0]) {
                 bottom = mid - 1;
@@ -24,12 +24,12 @@ class Solution {
             return false;
         }
 
-        int row = ((top + bottom) / 2);
+        int row = top + (bottom - top)/2;
         int left = 0;
         int right = m-1;
 
         while (left <= right) {
-            int innerMid = ((left + right)/2);
+            int innerMid = left + ((right - left)/2);
 
             if (target < matrix[row][innerMid]) {
                 right = innerMid - 1;
