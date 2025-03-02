@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0328-odd-even-linked-list) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
