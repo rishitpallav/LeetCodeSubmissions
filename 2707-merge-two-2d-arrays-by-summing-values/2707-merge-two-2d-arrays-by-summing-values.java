@@ -24,6 +24,6 @@ class Solution {
             result.add(nums2[j++]);
         }
 
-        return result.stream().toArray(int[][] :: new);
+        return result.toArray(new int[0][]);
     }
 }
