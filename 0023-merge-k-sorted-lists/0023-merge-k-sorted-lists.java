@@ -14,24 +14,23 @@ class Solution {
         ListNode head = new ListNode(0);
         ListNode temp = head;
 
-        while (true) {
-            ListNode smallest = null;
-            int smallestIndex = -1;
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
 
-            for (int i = 0; i < lists.length; i++ ) {
-                if (lists[i] != null) {
-                    if (smallest == null || smallest.val > lists[i].val) {
-                        smallest = lists[i];
-                        smallestIndex = i;
-                    }
-                }
-            }
+        for (ListNode list : lists) {
+            if (list != null)
+                pq.add(list);
+        }
 
-            if (smallest == null) break;
+        while (!pq.isEmpty()) {
+            ListNode smallest = pq.poll();
 
             temp.next = smallest;
             temp = temp.next;
-            lists[smallestIndex] = lists[smallestIndex].next;
+            smallest = smallest.next;
+            
+            if (smallest != null) {
+                pq.add(smallest);
+            }
         }
 
         return head.next;
