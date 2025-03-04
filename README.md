@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-maximum-binary-tree-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1005-univalued-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
