@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
