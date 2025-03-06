@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0661-image-smoother) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
