@@ -1,21 +1,12 @@
 class Solution {
     public int numberOfAlternatingGroups(int[] colors, int k) {
-        boolean[] col = new boolean[colors.length];
-
-        for (int i = 0; i < colors.length-1; i++ ) {
-            if (colors[i] != colors[i+1]) {
-                col[i] = true;
-            }
-        }
-
-        col[colors.length - 1] = colors[colors.length - 1] != colors[0];
-
         int result = 0;
         int countTrue = 0;
+        int n = colors.length;
 
-        for (int index = 0; index < col.length-1 + k; index++ ) {
-            int i = index % col.length;
-            if (!col[i]) {
+        for (int index = 0; index < n-1 + k; index++ ) {
+            int i = index % n;
+            if (colors[i] == colors[(i+1)%n]) {
                 if (countTrue + 1 >= k) {
                     result += (countTrue - k + 1) + 1;
                 }
@@ -24,7 +15,6 @@ class Solution {
                 countTrue++;
             }
         }
-
         if (countTrue + 1 >= k) {
             result += (countTrue - k + 1);
         }
