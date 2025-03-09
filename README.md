@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
