@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0576-out-of-boundary-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0576-out-of-boundary-paths) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
