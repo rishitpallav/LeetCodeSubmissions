@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
+| [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
+| [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Recursion
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
+| [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
+| [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 ## Trie
 |  |
 | ------- |
