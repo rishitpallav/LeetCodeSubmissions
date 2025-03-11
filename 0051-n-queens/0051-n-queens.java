@@ -1,69 +1,59 @@
 class Solution {
-
-    int[][] board;
+    boolean[] row;
+    boolean[] col;
+    boolean[] leftDiagonal;
+    boolean[] rightDiagonal;
+    
     List<List<String>> result;
-    boolean[] columnFilled;
-
+    
     public List<List<String>> solveNQueens(int n) {
-        board = new int[n][n];
-        result = new ArrayList<>();
-        columnFilled = new boolean[n];
+        row = new boolean[n+1];
+        col = new boolean[n+1];
+        leftDiagonal = new boolean[n+n+1];
+        rightDiagonal = new boolean[n+n+1];
 
-        findQueens(n, 0);
+        result = new ArrayList<>();
+
+        backtrack(0, n, new int[n]);
 
         return result;
     }
 
-    void findQueens(int n, int index) {
-        if (index == n) {
-            List<String> res = new ArrayList<>();
-
-            for (int[] i : board) {
+    void backtrack(int row, int n, int[] previousJIndex) {
+        if (row == n) {
+            List<String> result = new ArrayList<>();
+            for (int i : previousJIndex ) {
                 StringBuilder sb = new StringBuilder();
-                for (int j : i) {
-                    sb.append(j==0?".":"Q");
+                for (int j = 0; j < n; j++ ) {
+                    sb.append(i == j ? "Q":".");
                 }
-                res.add(sb.toString());
+                result.add(sb.toString());
             }
-            result.add(res);
-
+            this.result.add(result);
             return;
         }
 
-        for (int j = 0; j < n; j++ ) {
-            if (board[index][j] == 0) {
-                if (checkValidity(index, j, n)) {
-                    board[index][j] = 1;
-                    columnFilled[j] = true;
-                    findQueens(n, index+1);
-                    board[index][j] = 0;
-                    columnFilled[j] = false;
-                }
+        for (int col = 0; col < n; col++ ) {
+            if (isValid(row, col, n)) {
+                previousJIndex[row] = col;
+                this.row[row] = true;
+                this.col[col] = true;
+                leftDiagonal[row + col] = true;
+                rightDiagonal[col - row + n] = true;
+                backtrack(row+1, n, previousJIndex);
+                this.row[row] = false;
+                this.col[col] = false;
+                leftDiagonal[row + col] = false;
+                rightDiagonal[col - row + n] = false;
             }
         }
     }
 
-    boolean checkValidity(int row, int column, int n) {
-
-        if (columnFilled[column]) {
-            return false;
-        }
-        
-        for (int i = row, j = column; i >= 0 && j >= 0; i--, j-- ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; i >= 0 && j < n; i--, j++ ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; i < n && j >= 0; i++, j-- ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; i < n && j < n; i++, j++ ) {
-            if (board[i][j] == 1) return false;
-        }
+    boolean isValid(int i, int j, int n) {
+        if (row[i]) return false;
+        if (col[j]) return false;
+        if (leftDiagonal[i+j]) return false;
+        if (rightDiagonal[j-i+n]) return false;
 
         return true;
     }
