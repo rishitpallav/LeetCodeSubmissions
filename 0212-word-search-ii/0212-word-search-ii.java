@@ -1,4 +1,3 @@
-
 class Solution {
 
     class TrieNode {
@@ -6,18 +5,36 @@ class Solution {
         String word;
     }
 
+
+    // Trial using multi-threading. Please check the previous commit for regular solution.
+    // Doesn't change much. I added executor service.
+
     public List<String> findWords(char[][] board, String[] words) {
         List<String> result = new ArrayList<>();
         
         TrieNode root = buildTrie(words);
 
+        ExecutorService executor = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
+        List<Future<?>> futures = new ArrayList<>();
+
         for (int i = 0; i < board.length; i++ ) {
             for (int j = 0; j < board[0].length; j++ ) {
-                if (root.children[board[i][j] - 'a'] != null) {
-                    dfs(board, root, i, j, result);
-                }
+                    final int x = i, y = j;
+                    futures.add(executor.submit(() -> {
+                        dfs(board, root, x, y, result);
+                    }));
             }
         }
+
+        for (Future<?> future : futures) {
+            try {
+                future.get();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+
+        executor.shutdown();
 
         return result;
     }
