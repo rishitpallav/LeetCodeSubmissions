@@ -3,56 +3,45 @@ class Solution {
         int n = board.length;
         int m = board[0].length;
 
-        boolean[][] visited = new boolean[n][m];
+        for (int i = 0; i < n; i++ ) {
+            if(board[i][0] == 'O') {
+                makeLand(board, i, 0);
+            }
+            if (board[i][m-1] == 'O') {
+                makeLand(board, i, m-1);
+            }
+        }
+
+        for (int j = 0; j < m; j++ ) {
+            if (board[0][j] == 'O') {
+                makeLand(board, 0, j);
+            }
+            if (board[n-1][j] == 'O') {
+                makeLand(board, n-1, j);
+            }
+        }
 
         for (int i = 0; i < n; i++ ) {
             for (int j = 0; j < m; j++ ) {
                 if (board[i][j] == 'O') {
-                    if (!visited[i][j] && dfs(board, i, j, visited)) {
-                        makeWater(board, i, j);
-                    }
+                    board[i][j] = 'X';
+                } else if (board[i][j] == 'P') {
+                    board[i][j] = 'O';
                 }
             }
         }
     }
 
-    void makeWater(char[][] board, int i, int j) {
-        if (i < 0 || j < 0 || i >= board.length || j >= board[0].length || board[i][j] == 'X') {
+    void makeLand(char[][] board, int i, int j) {
+        if (i < 0 || j < 0 || i >= board.length || j >= board[0].length || board[i][j] == 'P' || board[i][j] == 'X') {
             return;
         }
 
-        board[i][j] = 'X';
+        board[i][j] = 'P';
 
-        makeWater(board, i+1, j);
-        makeWater(board, i-1, j);
-        makeWater(board, i, j+1);
-        makeWater(board, i, j-1);
-    }
-
-    boolean dfs(char[][] board, int i, int j, boolean[][] visited) {
-        if (i < 0 || j < 0 || i >= board.length || j >= board[0].length) {
-            return false;
-        }
-
-        if (visited[i][j]) return true;
-
-        if (board[i][j] == 'X') {
-            return true;
-        }
-
-        visited[i][j] = true;
-
-        int[][] directions = {{0,-1},{0,1},{1,0},{-1,0}};
-
-        boolean isSurrounded = true;
-
-        for (int[] d : directions) {
-            int newI = i + d[0];
-            int newJ = j + d[1];
-            isSurrounded &= dfs(board, newI, newJ, visited);
-        }
-
-        return isSurrounded;
-
+        makeLand(board, i+1, j);
+        makeLand(board, i-1, j);
+        makeLand(board, i, j+1);
+        makeLand(board, i, j-1);
     }
 }
