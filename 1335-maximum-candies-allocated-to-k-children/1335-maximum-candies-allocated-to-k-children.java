@@ -6,20 +6,20 @@ class Solution {
             max = Math.max(max, i);
         }
         
-        int left = 1;
+        int left = 0;
         int right = max;
 
         while (left < right) {
-            int mid = left + (right - left) / 2;
+            int mid = (left + right + 1) / 2;
 
             if (isAllocated(candies, mid, k)) {
-                left = mid + 1;
+                left = mid;
             } else {
                 right = mid - 1;
             }
         }
         
-        return (isAllocated(candies, left, k))?left:left-1;
+        return left;
     }
 
     boolean isAllocated(int[] candies, int current, long k) {
