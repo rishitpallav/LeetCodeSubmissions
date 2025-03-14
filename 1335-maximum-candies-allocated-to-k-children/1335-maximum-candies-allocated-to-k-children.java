@@ -1,25 +1,26 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
-        int max = 0;
+        long sum = 0;
 
         for (int i : candies) {
-            max = Math.max(max, i);
+            sum += i;
         }
         
-        int left = 0;
-        int right = max;
+        int left = 1;
+        int right = (int) (sum/k);
+        if (right == 0) return 0;
 
-        while (left < right) {
-            int mid = (left + right + 1) / 2;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
 
             if (isAllocated(candies, mid, k)) {
-                left = mid;
+                left = mid + 1;
             } else {
                 right = mid - 1;
             }
         }
         
-        return left;
+        return (int) left - 1;
     }
 
     boolean isAllocated(int[] candies, int current, long k) {
