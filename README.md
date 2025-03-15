@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
+| [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
