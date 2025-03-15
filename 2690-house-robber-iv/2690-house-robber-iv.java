@@ -4,23 +4,21 @@ class Solution {
         int high = nums[0];
 
         for (int i : nums) {
+            low = Math.min(low, i);
             high = Math.max(high, i);
         }
-
-        int result = high;
 
         while (low <= high) {
             int mid = low + (high - low)/2;
 
             if (canRob(nums, k, mid)) {
-                result = Math.min(result, mid);
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
 
-        return result;
+        return low;
     }
 
     boolean canRob(int[] nums, int k, int current) {
