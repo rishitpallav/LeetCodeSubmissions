@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
+| [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2564-most-profitable-path-in-a-tree) |
