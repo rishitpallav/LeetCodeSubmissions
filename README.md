@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
