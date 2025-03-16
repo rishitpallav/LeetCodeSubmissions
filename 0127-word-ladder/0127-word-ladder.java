@@ -1,64 +1,52 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Map<String, List<String>> dict = new HashMap<>();
-
-        Set<String> wordSet = new HashSet<>();
-
-        for (String w : wordList) {
-            wordSet.add(w);
-        }
-
-        wordList.add(beginWord);
+        Map<String, List<Integer>> wordToIndex = new HashMap<>();
 
         for (int i = 0; i < wordList.size(); i++ ) {
-            dict.put(wordList.get(i), relatedWords(wordList.get(i), wordSet));
+            char[] spit = wordList.get(i).toCharArray();
+            for (int j = 0; j < spit.length; j++ ) {
+                char c = spit[j];
+                spit[j] = '*';
+                String water = new String(spit);
+                wordToIndex.computeIfAbsent(water, k -> new ArrayList<>()).add(i);
+                spit[j] = c;
+            }
         }
 
-        Queue<String> bfsQueue = new LinkedList<>();
-        bfsQueue.add(beginWord);
+        Queue<String> current = new LinkedList<>();
+        current.add(beginWord);
 
-
-        Set<String> previousEncountered = new HashSet<>();
+        boolean[] visited = new boolean[wordList.size()];
+        
         int result = 1;
-        while (!bfsQueue.isEmpty()) {
-            Queue<String> newBfsQueue = new LinkedList<>();
-            result++;
-            while (!bfsQueue.isEmpty()) {
-                List<String> relatedStrings = dict.get(bfsQueue.poll());
-                for (String s : relatedStrings) {
-                    if (s.equals(endWord)) {
-                        return result;
+
+        while (!current.isEmpty()) {
+            Queue<String> next = new LinkedList<>();
+
+            while (!current.isEmpty()) {
+                char[] spit = current.poll().toCharArray();
+                for (int j = 0; j < spit.length; j++ ) {
+                    char c = spit[j];
+                    spit[j] = '*';
+                    String word = new String(spit);
+                    if (wordToIndex.containsKey(word)) {
+                        for (int index : wordToIndex.get(word)) {
+                            if (wordList.get(index).equals(endWord)) {
+                                return result+1;
+                            }
+                            if (!visited[index]) {
+                                next.add(wordList.get(index));
+                                visited[index] = true;
+                            }
+                        }
                     }
-                    if (!previousEncountered.contains(s)) {
-                        newBfsQueue.add(s);
-                        previousEncountered.add(s);
-                    }
+                    spit[j] = c;
                 }
             }
-            bfsQueue = newBfsQueue;
+            current = next;
+            result++;
         }
 
         return 0;
-    }
-
-    public List<String> relatedWords(String s, Set<String> wordSet) {
-        List<String> result = new ArrayList<>();
-        char[] sCharArray = s.toCharArray();
-
-        for (int i = 0; i < sCharArray.length; i++ ) {
-            char originalCharacter = sCharArray[i];
-            for (char j = 'a'; j <= 'z'; j++ ) {
-                if (j == originalCharacter) {
-                    continue;
-                }
-                sCharArray[i] = j;
-                if (wordSet.contains(new String(sCharArray))) {
-                    result.add(new String(sCharArray));
-                }
-            }
-            sCharArray[i] = originalCharacter;
-        }
-
-        return result;
     }
 }
