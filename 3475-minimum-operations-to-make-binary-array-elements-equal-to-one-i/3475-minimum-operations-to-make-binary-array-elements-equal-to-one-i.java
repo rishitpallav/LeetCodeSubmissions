@@ -11,8 +11,6 @@ class Solution {
             }
         }
 
-        System.out.println(Arrays.toString(nums));
-
         if (nums[n-1] == 0 || nums[n-2] == 0) {
             return -1;
         }
