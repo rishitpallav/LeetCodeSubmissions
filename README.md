@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0133-clone-graph) |
+| [0332-reconstruct-itinerary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0744-network-delay-time) |
@@ -776,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0744-network-delay-time) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
