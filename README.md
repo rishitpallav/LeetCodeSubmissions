@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-loud-and-rich](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Hash Table
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Eulerian Circuit
 |  |
 | ------- |
