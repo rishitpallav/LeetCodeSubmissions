@@ -9,34 +9,33 @@ class Solution {
             longer = str1;
         }
 
-        StringBuilder divisor = new StringBuilder(shorter);
+        int n = shorter.length();
 
         boolean dividesLonger = false;
 
-        while (!dividesLonger && divisor.length() > 0) {
-            while (!isDivisor(divisor, shorter)) {
-                divisor.deleteCharAt(divisor.length() - 1);
-                if (divisor.length() == 0) return "";
+        while (!dividesLonger && n > 0) {
+            while (n % shorter.length() != 0 && n % longer.length() != 0 && !isDivisor(n, shorter, shorter)) {
+                n--;
+                if (n == 0) return "";
             }
 
-            dividesLonger = isDivisor(divisor, longer);
+            dividesLonger = isDivisor(n, shorter, longer);
             if (!dividesLonger)
-                divisor.deleteCharAt(divisor.length() - 1);
+                n--;
         }
 
-        return divisor.toString();
+        return shorter.substring(0, n);
         
     }
 
-    boolean isDivisor(StringBuilder shorter, String longer) {
+    boolean isDivisor(int n, String shorter, String longer) {
         int i = 0, j = 0;
-        int n = shorter.length();
         for (; i < longer.length(); i++, j++ ) {
             j = j%n;
             if (longer.charAt(i) != shorter.charAt(j)) {
                 return false;
             }
         }
-        return j == shorter.length();
+        return j == n;
     }
 }
