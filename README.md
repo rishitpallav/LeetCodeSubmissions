@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0576-out-of-boundary-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0576-out-of-boundary-paths) |
