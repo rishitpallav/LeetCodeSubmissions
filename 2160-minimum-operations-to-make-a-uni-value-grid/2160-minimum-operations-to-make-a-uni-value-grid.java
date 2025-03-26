@@ -1,16 +1,17 @@
 class Solution {
     public int minOperations(int[][] grid, int x) {
-        List<Integer> allElements = new ArrayList<>();
+        int[] allElements = new int[grid[0].length * grid.length];
+        int index = 0;
 
         for (int i = 0; i < grid.length; i++ ) {
             for (int j = 0; j < grid[0].length; j++ ) {
-                allElements.add(grid[i][j]);
+                allElements[index++] = grid[i][j];
             }
         }
 
-        Collections.sort(allElements);
+        Arrays.sort(allElements);
 
-        int median = allElements.get(allElements.size() / 2);
+        int median = allElements[allElements.length / 2];
         int total = 0;
 
         for (int element : allElements ) {
