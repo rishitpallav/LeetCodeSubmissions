@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0457-circular-array-loop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0647-palindromic-substrings) |
 | [0688-knight-probability-in-chessboard](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0688-knight-probability-in-chessboard) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
