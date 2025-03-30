@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0657-robot-return-to-origin) |
+| [0768-partition-labels](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
