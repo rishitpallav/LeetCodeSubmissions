@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2386-min-max-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2386-min-max-game) |
+| [2442-number-of-arithmetic-triplets](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2478-longest-nice-subarray) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2434-design-a-number-container-system) |
+| [2442-number-of-arithmetic-triplets](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2442-number-of-arithmetic-triplets](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Counting
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Data Stream
 |  |
