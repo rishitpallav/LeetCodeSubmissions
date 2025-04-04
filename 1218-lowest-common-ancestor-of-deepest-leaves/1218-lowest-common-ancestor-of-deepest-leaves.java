@@ -16,7 +16,7 @@
 class Solution {
     int maxDepth = 0;
     TreeNode result;
-    
+
     public TreeNode lcaDeepestLeaves(TreeNode root) {
         result = root;
         postOrderDepth (root, 0);
@@ -24,6 +24,7 @@ class Solution {
     }
 
     int postOrderDepth (TreeNode root, int depth) {
+        maxDepth = Math.max(maxDepth, depth);
         if (root == null) {
             return depth;
         }
@@ -31,13 +32,10 @@ class Solution {
         int left = postOrderDepth (root.left, depth + 1);
         int right = postOrderDepth (root.right, depth + 1);
 
-        int currentDepth = Math.max(left, right);
-
-        if (left == right && currentDepth >= maxDepth) {
+        if (left == maxDepth && right == maxDepth) {
             result = root;
-            maxDepth = currentDepth;
         }
 
-        return currentDepth;
+        return Math.max(left, right);
     }
 }
