@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1873-longest-nice-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0389-find-the-difference) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1873-longest-nice-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2478-longest-nice-subarray) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1873-longest-nice-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1873-longest-nice-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1873-longest-nice-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2107-find-unique-binary-string) |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1873-longest-nice-substring) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
