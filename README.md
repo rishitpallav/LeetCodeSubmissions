@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0079-word-search) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
