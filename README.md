@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0200-number-of-islands) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
