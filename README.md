@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0434-number-of-segments-in-a-string) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
