@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0067-add-binary) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0219-contains-duplicate-ii) |
