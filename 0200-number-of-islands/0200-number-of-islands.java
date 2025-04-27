@@ -1,29 +1,30 @@
 class Solution {
+    
+    int[][] directions = new int[][]{{0,1},{1,0},{-1,0},{0,-1}};
     public int numIslands(char[][] grid) {
-        int result = 0;
+        int countIslands = 0;
 
         for (int i = 0; i < grid.length; i++ ) {
             for (int j = 0; j < grid[0].length; j++ ) {
                 if (grid[i][j] == '1') {
-                    result++;
-                    dfs(grid, i, j);
+                    countIslands++;
+                    markIslands(grid, i, j);
                 }
             }
         }
 
-        return result;
+        return countIslands;
     }
 
-    void dfs(char[][] grid, int i, int j) {
-        if (i < 0 || j < 0 || i >= grid.length || j >= grid[0].length || grid[i][j] == '0') {
+    void markIslands(char[][] grid, int x, int y) {
+        if (x < 0 || x >= grid.length || y < 0 || y >= grid[0].length || grid[x][y] != '1') {
             return;
         }
-
-        grid[i][j] = '0';
-
-        dfs(grid, i+1, j);
-        dfs(grid, i-1, j);
-        dfs(grid, i, j+1);
-        dfs(grid, i, j-1);
+        grid[x][y] = '2';
+        for (int[] d : directions) {
+            int newX = d[0] + x;
+            int newY = d[1] + y;
+            markIslands(grid, newX, newY);
+        }
     }
 }
