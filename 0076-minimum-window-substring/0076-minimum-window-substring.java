@@ -10,25 +10,26 @@ class Solution {
         int[] tChars = new int[58];
         int[] sChars = new int[58];
 
+        int left = 0, have = 0, need = 0;
+
         for (char c : t.toCharArray()) {
             tChars[c - 'A']++;
+            // new char inserted
+            if (tChars[c - 'A'] == 1) {
+                need++;
+            }
         }
 
-        int left = 0;
-
         for (int right = 0; right < s.length(); right++ ) {
-            boolean isPresent = true;
 
-            sChars[s.charAt(right)-'A']++;
+            sChars[s.charAt(right) - 'A']++;
 
-            for (int i = 0; i < 58; i++ ) {
-                if (sChars[i] < tChars[i]) {
-                    isPresent = false;
-                    break;
-                }
+            // for every valid frequency
+            if (sChars[s.charAt(right) - 'A'] == tChars[s.charAt(right) - 'A']) {
+                have++;
             }
 
-            while (isPresent) {
+            while (have == need) {
 
                 if (currentLength > (right - left)) {
                     currentLength = right - left + 1;
@@ -37,14 +38,13 @@ class Solution {
                 }
 
                 sChars[s.charAt(left) - 'A']--;
-                left++;
 
-                for (int i = 0; i < 58; i++ ) {
-                    if (sChars[i] < tChars[i]) {
-                        isPresent = false;
-                        break;
-                    }
+                // for every valid frequency lost
+                if (sChars[s.charAt(left) - 'A'] < tChars[s.charAt(left) - 'A']) {
+                    have--;
                 }
+
+                left++;
             }
         }
 
