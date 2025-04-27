@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0059-spiral-matrix-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0091-decode-ways) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
