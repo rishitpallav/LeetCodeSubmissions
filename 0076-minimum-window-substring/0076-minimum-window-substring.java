@@ -1,52 +1,53 @@
 class Solution {
     public String minWindow(String s, String t) {
 
-        if (s.length() < t.length()) return "";
+        if (t.length() > s.length()) return "";
 
-        Map<Character, Integer> tMap = new HashMap<>();
-        Map<Character, Integer> sMap = new HashMap<>();
+        int currentLength = Integer.MAX_VALUE;
+        int[] indices = new int[]{-1,-1};
 
-        int have = 0;
-        int need = 0;
+        // A - 65 till z - 122
+        int[] tChars = new int[58];
+        int[] sChars = new int[58];
 
         for (char c : t.toCharArray()) {
-            tMap.put(c, tMap.getOrDefault(c, 0)+1);
-            if (tMap.get(c) == 1) {
-                need++;
-            }
+            tChars[c - 'A']++;
         }
 
-        char[] sArr = s.toCharArray();
         int left = 0;
-        int right = 0;
 
-        int[] minLength = new int[]{-1, -1};
+        for (int right = 0; right < s.length(); right++ ) {
+            boolean isPresent = true;
 
-        while (right < sArr.length) {
-            if (tMap.containsKey(sArr[right])) {
-                sMap.put(sArr[right], sMap.getOrDefault(sArr[right], 0)+1);
-                if (sMap.get(sArr[right]).equals(tMap.get(sArr[right]))) {
-                    have++;
+            sChars[s.charAt(right)-'A']++;
+
+            for (int i = 0; i < 58; i++ ) {
+                if (sChars[i] < tChars[i]) {
+                    isPresent = false;
+                    break;
                 }
             }
-            right++;
 
-            while (have == need) {
-                
-                if (minLength[1] - minLength[0] > right - left || minLength[0] == -1) {
-                    minLength[0] = left;
-                    minLength[1] = right;
+            while (isPresent) {
+
+                if (currentLength > (right - left)) {
+                    currentLength = right - left + 1;
+                    indices[0] = left;
+                    indices[1] = right;
                 }
 
-                if (tMap.containsKey(sArr[left])) {
-                    if (sMap.get(sArr[left]).equals(tMap.get(sArr[left]))) {
-                        have--;
-                    }
-                    sMap.put(sArr[left], sMap.get(sArr[left])-1);
-                }
+                sChars[s.charAt(left) - 'A']--;
                 left++;
+
+                for (int i = 0; i < 58; i++ ) {
+                    if (sChars[i] < tChars[i]) {
+                        isPresent = false;
+                        break;
+                    }
+                }
             }
         }
-        return minLength[0] == -1?"":s.substring(minLength[0], minLength[1]);
+
+        return indices[0] == -1?"": s.substring(indices[0], indices[1]+1);
     }
 }
