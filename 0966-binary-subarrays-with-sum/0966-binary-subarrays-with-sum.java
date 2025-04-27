@@ -1,24 +1,20 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        /*
-            [1,0,1,0,1]
-            [1,1,2,2,3]
-            {
-                0 : 1
-                1 : 2
-                2 : 2
-                3 : 1
+        int left = 0, total = 0, result = 0;
+
+        for (int right = 0; right < nums.length; right++ ) {
+            total += nums[right];
+
+            while (total > goal) {
+                total -= nums[left++];
             }
-        */
-        Map<Integer, Integer> previousTable = new HashMap<>();
-        int sum = 0, result = 0;
 
-        previousTable.put(0, 1);
-
-        for (int num : nums) {
-            sum += num;
-            result += previousTable.getOrDefault(sum - goal, 0);
-            previousTable.put(sum, previousTable.getOrDefault(sum, 0) + 1);
+            int tempLeft = left;
+            int tempSum = total;
+            while (tempLeft <= right && tempSum == goal) {
+                result++;
+                tempSum -= nums[tempLeft++];
+            }
         }
 
         return result;
