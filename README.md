@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0966-binary-subarrays-with-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0966-binary-subarrays-with-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0966-binary-subarrays-with-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
