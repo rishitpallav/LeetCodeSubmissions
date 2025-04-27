@@ -1,38 +1,37 @@
 class Solution {
-    Map<Integer, Boolean> indexToResMemo;
+    Set<String> words;
+    Map<Integer, Boolean> memo;
     public boolean wordBreak(String s, List<String> wordDict) {
-        indexToResMemo = new HashMap<>();
-        Set<String> wordDictSet = new HashSet<>();
+        words = new HashSet<>();
+        memo = new HashMap<>();
+
         for (String word : wordDict) {
-            wordDictSet.add(word);
+            words.add(word);
         }
 
-        return dfs (s, wordDictSet, 0);
+        return dfs(s, 0);
     }
 
-    boolean dfs (String s, Set<String> wordDictSet, int index) {
-        if (index >= s.length()) {
+    boolean dfs (String s, int index) {
+        if (index == s.length()) {
             return true;
         }
 
-        if (indexToResMemo.containsKey(index)) {
-            return indexToResMemo.get(index);
+        if (memo.containsKey(index)) {
+            return memo.get(index);
         }
 
-        boolean res = false;
-
-        for (int i = index+1; i <= s.length(); i++ ) {
-            boolean result = false;
-            if (wordDictSet.contains(s.substring(index, i))) {
-                result = dfs (s, wordDictSet, i);
-            }
-            if (result == true) {
-                indexToResMemo.put(index, true);
-                return true;
+        for (int i = index+1; i < s.length()+1; i++ ) {
+            if (words.contains(s.substring(index, i))) {
+                if (dfs(s, i)) {
+                    memo.put(index, true);
+                    return true;
+                }
             }
         }
 
-        indexToResMemo.put(index, false);
+        memo.put(index, false);
+
         return false;
     }
 }
