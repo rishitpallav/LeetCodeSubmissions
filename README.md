@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
