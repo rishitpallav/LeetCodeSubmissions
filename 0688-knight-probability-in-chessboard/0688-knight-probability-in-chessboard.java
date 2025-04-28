@@ -1,35 +1,38 @@
 class Solution {
+    int[][] directions = new int[][]{{-1,-2},{-2,-1},{-2,1},{-1,2},{1,2},{2,1},{2,-1},{1,-2}};
     public double knightProbability(int n, int k, int row, int column) {
         double[][][] memo = new double[n][n][k+1];
-
-        for (double[][] x : memo) {
-            for (double[] y : x) {
-                Arrays.fill(y,-1.0);
+        
+        for (double[][] me : memo) {
+            for (double[] m : me) {
+                Arrays.fill(m, -1.0);
             }
         }
-
-        return knightProbability(n, k, row, column, memo);
+        
+        return dfs (n, k, row, column, memo);
     }
 
-    double knightProbability(int n, int k, int i, int j, double[][][] memo) {
-        if (i < 0 || j < 0 || i >= n || j >= n) {
+    double dfs(int n, int k, int row, int column, double[][][] memo) {
+        if (row < 0 || row >= n || column < 0 || column >= n) {
             return 0.0f;
         }
+
         if (k == 0) {
             return 1.0f;
         }
-        if (memo[i][j][k] > -1) {
-            return memo[i][j][k];
-        }
-        int[][] directions = new int[][]{{-1,-2},{-2,-1},{-2,1},{-1,2},{1,-2},{2,-1},{2,1},{1,2}};
-        double timesOutside = 0.0f;
 
+        if (memo[row][column][k] != -1.0) {
+            return memo[row][column][k];
+        }
+
+
+        double probability = 0.0f;
         for (int[] d : directions) {
-            timesOutside += knightProbability(n, k-1, i+d[0], j+d[1], memo);
+            probability += (dfs(n, k-1, row + d[0], column + d[1], memo) / 8);
         }
+        
+        memo[row][column][k] = probability;
 
-        memo[i][j][k] = timesOutside/8;
-
-        return memo[i][j][k];
+        return probability;
     }
 }
