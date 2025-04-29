@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -924,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 ## Queue
 |  |
 | ------- |
