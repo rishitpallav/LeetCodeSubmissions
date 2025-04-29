@@ -1,42 +1,34 @@
 class Solution {
     public int compress(char[] chars) {
-        
-        int count = 0;
-        int pointer = 0;
-        char currentChar = chars[0];
+        int insertPointer = 0, counter = 0;
+        char previousChar = chars[0];
 
         for (int i = 0; i < chars.length; i++ ) {
-            if (currentChar == chars[i]) {
-                count++;
+            if (previousChar == chars[i]) {
+                counter++;
             } else {
-                if (count == 1) {
-                    chars[pointer] = currentChar;
-                    pointer++;
-                } else {
-                    chars[pointer] = currentChar;
-                    pointer++;
-                    for (char c : String.valueOf(count).toCharArray()) {
-                        chars[pointer] = c;
-                        pointer++;
+                chars[insertPointer++] = previousChar;
+                if (counter > 1) {
+                    String c = counter + "";
+                    for (int j = 0; j < c.length(); j++ ) {
+                        chars[insertPointer++] = c.charAt(j);
                     }
                 }
-                currentChar = chars[i];
-                count = 1;
+                previousChar = chars[i];
+                counter = 1;
             }
         }
 
-        if (count == 1) {
-            chars[pointer] = currentChar;
-            pointer++;
-        } else {
-            chars[pointer] = currentChar;
-            pointer++;
-            for (char c : String.valueOf(count).toCharArray()) {
-                chars[pointer] = c;
-                pointer++;
+        if (counter >= 1) {
+            chars[insertPointer++] = previousChar;
+            if (counter > 1) {
+                String c = counter + "";
+                for (int j = 0; j < c.length(); j++ ) {
+                    chars[insertPointer++] = c.charAt(j);
+                }
             }
         }
 
-        return pointer;
+        return insertPointer;
     }
 }
