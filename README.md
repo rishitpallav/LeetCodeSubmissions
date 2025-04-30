@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1119-robot-bounded-in-circle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
