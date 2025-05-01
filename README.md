@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
+| [0724-find-pivot-index](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1016-subarray-sums-divisible-by-k) |
