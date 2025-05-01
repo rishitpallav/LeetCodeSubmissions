@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [1119-robot-bounded-in-circle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
+| [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0966-binary-subarrays-with-sum) |
+| [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
+| [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Backtracking
 |  |
