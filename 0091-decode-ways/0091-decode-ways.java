@@ -1,31 +1,42 @@
 class Solution {
-    
-    HashMap<Integer, Integer> dp;
+    Set<String> numbers;
+    int memo[];
     public int numDecodings(String s) {
-        dp = new HashMap<>();
+        memo = new int[s.length()];
+        numbers = new HashSet<>();
+        
+        for (int i = 1; i < 27; i++ ) {
+            numbers.add(i+"");
+        }
+        Arrays.fill(memo, -1);
+
         return numDecodings(s, 0);
     }
 
-    int numDecodings(String s, int currentIndex) {
-        if (dp.containsKey(currentIndex)) {
-            return dp.get(currentIndex);
-        }
-
-        if (currentIndex == s.length()) {
+    int numDecodings(String s, int i) {
+        if (i == s.length()) {
             return 1;
         }
 
-        if (s.charAt(currentIndex) == '0') {
+        if (i > s.length()) {
             return 0;
         }
 
-        int res = numDecodings(s, currentIndex+1);
-        if (currentIndex+1 < s.length() && (s.charAt(currentIndex) == '1' || (s.charAt(currentIndex) == '2' && s.charAt(currentIndex+1) < '7'))) {
-            res += numDecodings(s, currentIndex+2);
+        if (memo[i] != -1) {
+            return memo[i];
         }
 
-        dp.put(currentIndex, res);
+        int total = 0;
 
-        return res;
+        if (numbers.contains(s.substring(i, i+1))) {
+            total += numDecodings(s, i+1);
+        }
+        if (i < s.length() - 1 &&numbers.contains(s.substring(i, i+2))) {
+            total += numDecodings(s, i+2);
+        }
+
+        memo[i] = total;
+
+        return total;
     }
 }
