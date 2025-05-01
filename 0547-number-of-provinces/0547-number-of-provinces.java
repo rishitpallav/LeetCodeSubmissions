@@ -1,42 +1,42 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-
-        boolean[] completed = new boolean[n];
-        int provinces = 0;
-
-        Queue<Integer> travel = new LinkedList<>();
+        
+        boolean[] isComplete = new boolean[n];
+        Queue<Integer> connectedNodes = new LinkedList<>();
+        int totalProvinces = 0;
 
         for (int i = 0; i < n; i++ ) {
-            if (completed[i])
+            if (isComplete[i]) {
                 continue;
-            completed[i] = true;
+            }
+
             for (int j = 0; j < n; j++ ) {
                 if (i == j) {
                     continue;
                 }
-                if (isConnected[i][j] == 1) {
-                    travel.add(j);
-                }
+                if (isConnected[i][j] == 1)
+                    connectedNodes.add(j);
             }
+            isComplete[i] = true;
 
-            while (!travel.isEmpty()) {
-                int k = travel.poll();
-
-                if (!completed[k]) {
-                    completed[k] = true;
-                    for (int j = 0; j < n; j++ ) {
-                        if (k==j)
-                            continue;
-                        if (isConnected[k][j] == 1) {
-                            travel.add(j);
-                        }
+            while (!connectedNodes.isEmpty()) {
+                int k = connectedNodes.poll();
+                if (isComplete[k]) {
+                    continue;
+                }
+                for (int j = 0; j < n; j++ ) {
+                    if (k == j) {
+                        continue;
                     }
+                    if (isConnected[k][j] == 1)
+                        connectedNodes.add(j);
                 }
+                isComplete[k] = true;
             }
-            provinces++;
+            totalProvinces++;
         }
 
-        return provinces;
+        return totalProvinces;
     }
 }
