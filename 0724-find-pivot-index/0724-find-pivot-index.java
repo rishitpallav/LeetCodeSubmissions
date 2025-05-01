@@ -9,7 +9,6 @@ class Solution {
         int currentSum = 0;
 
         for (int i = 0; i < nums.length; i++ ) {
-            System.out.println(currentSum +", "+ 2 * currentSum + nums[i]);
             if (2 * currentSum + nums[i] == sum) {
                 return i;
             }
