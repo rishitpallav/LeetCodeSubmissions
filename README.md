@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
