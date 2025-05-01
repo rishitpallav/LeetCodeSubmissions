@@ -1,32 +1,49 @@
 class MinStack {
 
-    Stack<Integer> mono;
-    Stack<Integer> st;
+    Map<Integer, Integer> valueCounts;
+    Stack<Integer> stack;
+    PriorityQueue<Integer> pq;
 
     public MinStack() {
-        mono = new Stack<>();
-        st = new Stack<>();
+        valueCounts = new HashMap<>();
+        stack = new Stack<>();
+        pq = new PriorityQueue<>();
     }
     
     public void push(int val) {
-        if (mono.empty() || val <= mono.peek()) {
-            mono.push(val);
-        }
-        st.push(val);
+        stack.push(val);
+        pq.add(val);
+        valueCounts.put(val, valueCounts.getOrDefault(val, 0) + 1);
     }
     
     public void pop() {
-        int val = st.pop();
-        if (val == mono.peek()) {
-            mono.pop();
+        int val = stack.pop();
+        valueCounts.put(val, valueCounts.get(val) - 1);
+        if (valueCounts.get(val) == 0) {
+            valueCounts.remove(val);
         }
     }
     
     public int top() {
-        return st.peek();
+        return stack.peek();
     }
     
     public int getMin() {
-        return mono.peek();
+        int lowest = pq.peek();
+        while (!valueCounts.containsKey(lowest)) {
+            pq.poll();
+            lowest = pq.peek();
+        }
+
+        return lowest;
     }
 }
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(val);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
