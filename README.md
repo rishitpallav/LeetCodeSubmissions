@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0076-minimum-window-substring) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0062-unique-paths) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0134-gas-station) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0224-basic-calculator) |
