@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1511-count-number-of-teams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1755-defuse-the-bomb) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1250-longest-common-subsequence) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
+| [1511-count-number-of-teams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1046,4 +1048,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1137-height-checker) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
