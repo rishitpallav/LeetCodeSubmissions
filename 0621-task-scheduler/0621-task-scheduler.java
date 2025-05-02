@@ -1,29 +1,21 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
         int[] chars = new int[26];
 
         for (char task : tasks) chars[task - 'A']++;
-        for (int i : chars) if (i > 0) pq.add(i);
+        Arrays.sort(chars);
+        
+        // Take the largest. -1 because we take one at t = 0
+        int chunks = chars[25] - 1;
+        // Assuming worst case first
+        int totalIdleTime = chunks * n;
 
-        Queue<int[]> cooldown = new LinkedList<>();
-        int t = 0;
-
-        while (!pq.isEmpty() || !cooldown.isEmpty()) {
-            t++;
-
-            if (!pq.isEmpty()) {
-                int current = pq.poll() -1 ;
-                if (current > 0) {
-                    cooldown.add(new int[]{current, t + n});
-                }
-            }
-
-            while (!cooldown.isEmpty() && cooldown.peek()[1] == t) {
-                pq.add(cooldown.poll()[0]);
-            }
+        // We already took largest, so start with 24
+        for (int i = 24; i > -1; i-- ) {
+            // Think of it as filling in the blanks A,_,_,A,_,_A => A,B,_,A,B,_,A,B
+            totalIdleTime -= Math.min(chars[i], chunks);
         }
 
-        return t;
+        return tasks.length + Math.max(totalIdleTime, 0);
     }
 }
