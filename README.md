@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1137-height-checker) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
 | [1325-path-with-maximum-probability](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1325-path-with-maximum-probability) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0778-reorganize-string) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
