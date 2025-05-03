@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0866-rectangle-overlap](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0866-rectangle-overlap) |
 | [0923-super-egg-drop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [1119-robot-bounded-in-circle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1119-robot-bounded-in-circle) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0866-rectangle-overlap) |
 | [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Backtracking
