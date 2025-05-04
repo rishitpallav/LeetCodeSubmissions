@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
