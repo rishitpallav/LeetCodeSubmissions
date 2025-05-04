@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0687-longest-univalue-path) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
 | [1325-path-with-maximum-probability](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1325-path-with-maximum-probability) |
@@ -1032,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Merge Sort
 |  |
@@ -1048,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Number Theory
 |  |
 | ------- |
