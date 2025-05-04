@@ -12,10 +12,10 @@ class Solution {
 
         StringBuilder result = new StringBuilder();
 
-        while (!values.isEmpty()) {
-            result.append(values.pop());
+        for (char c : values) {
+            result.append(c);
         }
 
-        return result.reverse().toString();
+        return result.toString();
     }
 }
