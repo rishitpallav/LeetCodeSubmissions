@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1137-height-checker) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
 | [1325-path-with-maximum-probability](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1331-path-with-maximum-gold) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
