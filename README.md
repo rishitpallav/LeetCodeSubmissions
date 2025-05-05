@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1873-longest-nice-substring) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
