@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0039-combination-sum) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0148-sort-list) |
