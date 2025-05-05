@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0504-base-7) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0866-rectangle-overlap) |
 | [0923-super-egg-drop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0923-super-egg-drop) |
 | [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0661-image-smoother) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0778-reorganize-string) |
