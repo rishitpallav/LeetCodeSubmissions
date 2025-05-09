@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1300-critical-connections-in-a-network](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0881-loud-and-rich) |
+| [1300-critical-connections-in-a-network](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1325-path-with-maximum-probability) |
 | [1558-course-schedule-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1162,4 +1164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0380-insert-delete-getrandom-o1) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
