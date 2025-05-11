@@ -1,12 +1,11 @@
 class Solution {
+    Map<Integer, Integer> mostFreq;
     public int mostFrequentPrime(int[][] mat) {
-        Map<Integer, Integer> mostFreq = new HashMap<>();
+        mostFreq = new HashMap<>();
         for (int i = 0; i < mat.length; i++ ) {
             for (int j = 0; j < mat[0].length; j++ ) {
-                List<Integer> elements = getAllNumbers(mat, i, j);
-                for (int element : elements) {
-                    mostFreq.put(element, mostFreq.getOrDefault(element, 0) + 1);
-                }
+                getAllNumbers(mat, i, j);
+                System.out.println(mostFreq);
             }
         }
 
@@ -25,9 +24,8 @@ class Solution {
         return mostFreqNumber;
     }
 
-    List<Integer> getAllNumbers(int[][] mat, int x, int y) {
+    void getAllNumbers(int[][] mat, int x, int y) {
         int n = mat.length, m = mat[0].length;
-        List<Integer> result = new ArrayList<>();
 
         // East
         int number = 0;
@@ -35,7 +33,7 @@ class Solution {
             number *= 10;
             number += mat[x][j];
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
 
         // South-East
@@ -46,7 +44,7 @@ class Solution {
             number += mat[i][j];
             i++;j++;
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
 
         // South
@@ -55,7 +53,7 @@ class Solution {
             number *= 10;
             number += mat[i][y];
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
 
         // South-West
@@ -66,7 +64,7 @@ class Solution {
             number += mat[i][j];
             i++; j--;
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
 
         // West
@@ -75,7 +73,7 @@ class Solution {
             number *= 10;
             number += mat[x][j];
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
 
         // North-West
@@ -86,7 +84,7 @@ class Solution {
             number += mat[i][j];
             i--; j--;
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
 
         // North
@@ -95,7 +93,7 @@ class Solution {
             number *= 10;
             number += mat[i][y];
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
 
         // North-East
@@ -106,10 +104,8 @@ class Solution {
             number += mat[i][j];
             i--; j++;
             if (number > 10 && isPrime(number))
-                result.add(number);
+                mostFreq.put(number, mostFreq.getOrDefault(number, 0)+1);
         }
-
-        return result;
 
     }
 
