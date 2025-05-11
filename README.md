@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-most-frequent-prime](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3314-most-frequent-prime) |
 ## String
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-most-frequent-prime](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3314-most-frequent-prime) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3429-special-array-i) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-most-frequent-prime](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3314-most-frequent-prime) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Graph
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-most-frequent-prime](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3314-most-frequent-prime) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
@@ -893,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2448-count-number-of-bad-pairs) |
+| [3314-most-frequent-prime](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3314-most-frequent-prime) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1087,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-most-frequent-prime](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3314-most-frequent-prime) |
 ## Data Stream
 |  |
 | ------- |
@@ -1112,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3314-most-frequent-prime](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3314-most-frequent-prime) |
 ## Shortest Path
 |  |
 | ------- |
