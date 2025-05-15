@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Depth-First Search
 |  |
