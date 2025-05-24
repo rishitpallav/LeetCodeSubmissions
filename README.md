@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1646-kth-missing-positive-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1646-kth-missing-positive-number) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2690-house-robber-iv) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1511-count-number-of-teams](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1755-defuse-the-bomb) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
