@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0647-palindromic-substrings) |
 | [0688-knight-probability-in-chessboard](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0688-knight-probability-in-chessboard) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0655-print-binary-tree) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0733-flood-fill) |
