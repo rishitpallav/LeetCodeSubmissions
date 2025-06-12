@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0472-concatenated-words) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0567-permutation-in-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0457-circular-array-loop](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0498-diagonal-traverse) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0576-out-of-boundary-paths) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0472-concatenated-words) |
 | [0529-minesweeper](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0547-number-of-provinces) |
@@ -1101,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0212-word-search-ii) |
+| [0472-concatenated-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 ## Queue
