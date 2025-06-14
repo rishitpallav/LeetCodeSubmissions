@@ -3,7 +3,7 @@ class Solution {
         char large = ' ';
         char small = ' ';
 
-        String value = num + "";
+        String value = String.valueOf(num);
 
         for (int i = 0; i < value.length() && (large == ' ' || small == ' '); i++ ) {
             if (large == ' ' && value.charAt(i) != '9') {
@@ -14,9 +14,22 @@ class Solution {
             }
         }
 
-        int largest = Integer.parseInt(value.replaceAll(String.valueOf(large), "9"));
-        int smallest = Integer.parseInt(value.replaceAll(String.valueOf(small), "0"));
+        int result = 0;
+        for (int i = 0; i < value.length(); i++ ) {
+            char c = value.charAt(i);
+            if (c == small) {
+                result *= 10;
+                result += 9;
+            } else {
+                if (c == large) {
+                    result *= 10;
+                    result += '9' - c;
+                } else {
+                    result *= 10;
+                }
+            }
+        }
 
-        return largest - smallest;
+        return result;
     }
 }
