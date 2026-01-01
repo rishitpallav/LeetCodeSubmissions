@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0837-most-common-word](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0837-most-common-word) |
+| [0846-hand-of-straights](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0846-hand-of-straights) |
 | [0854-making-a-large-island](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0854-making-a-large-island) |
 | [0881-loud-and-rich](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0881-loud-and-rich) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0846-hand-of-straights](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0846-hand-of-straights) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0837-most-common-word) |
+| [0846-hand-of-straights](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0846-hand-of-straights) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0778-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0846-hand-of-straights) |
 | [0883-car-fleet](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0883-car-fleet) |
 | [0974-reorder-data-in-log-files](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0974-reorder-data-in-log-files) |
 | [0976-minimum-area-rectangle](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0976-minimum-area-rectangle) |
