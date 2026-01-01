@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1286-constrained-subsequence-sum](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1286-constrained-subsequence-sum) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1325-path-with-maximum-probability](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0846-hand-of-straights) |
 | [0979-di-string-match](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1364-tuple-with-same-product](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1137-height-checker) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rishitpallav/LeetCodeSubmissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
