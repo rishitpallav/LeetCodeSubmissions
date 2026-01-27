@@ -1,60 +1,42 @@
 class Solution {
-
-    int[][] board;
-    int result;
-    boolean[] columnFilled;
+    boolean[] vertical;
+    boolean[] diagonal;
+    boolean[] reverseDiagonal;
 
     public int totalNQueens(int n) {
-        board = new int[n][n];
-        result = 0;
-        columnFilled = new boolean[n];
+        vertical = new boolean[n];
+        diagonal = new boolean[(2*n)-1];
+        reverseDiagonal = new boolean[(2*n)-1];
 
-        findQueens(n, 0);
-
-        return result;
+        return recursion(0, 0, n);
     }
 
-    void findQueens(int n, int index) {
-        if (index == n) {
-            result++;
-            return;
+    public int recursion(int i, int j, int n) {
+
+        if (i == n) {
+            return 1;
         }
 
-        for (int j = 0; j < n; j++ ) {
-            if (board[index][j] == 0) {
-                if (checkValidity(index, j, n)) {
-                    board[index][j] = 1;
-                    columnFilled[j] = true;
-                    findQueens(n, index+1);
-                    board[index][j] = 0;
-                    columnFilled[j] = false;
-                }
-            }
+        if (j == n) {
+            return 0;
         }
-    }
 
-    boolean checkValidity(int row, int column, int n) {
-
-        if (columnFilled[column]) {
-            return false;
-        }
+        int counter = 0;
         
-        for (int i = row, j = column; i >= 0 && j >= 0; i--, j-- ) {
-            if (board[i][j] == 1) return false;
+        counter += recursion(i, j+1, n);
+
+        if (!vertical[j] && !diagonal[i+j] && !reverseDiagonal[i-j+n-1]) {
+            vertical[j] = true;
+            diagonal[i+j] = true;
+            reverseDiagonal[i-j+n-1] = true;
+
+            counter += recursion(i+1, 0, n);
+
+            vertical[j] = false;
+            diagonal[i+j] = false;
+            reverseDiagonal[i-j+n-1] = false;
         }
 
-        for (int i = row, j = column; i >= 0 && j < n; i--, j++ ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; i < n && j >= 0; i++, j-- ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        for (int i = row, j = column; i < n && j < n; i++, j++ ) {
-            if (board[i][j] == 1) return false;
-        }
-
-        return true;
+        return counter;
     }
 }
