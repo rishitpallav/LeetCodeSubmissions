@@ -10,13 +10,9 @@ class Solution {
     void backtrack(String s, int index, List<String> currentAddress) {
         if (currentAddress.size() > 4) return;
 
-        // System.out.printf("s=%s, index=%d, currentAddress=%s\n", s, index, String.join(".", currentAddress));
-
-        if (index == s.length()) {
-            if (isValidAddress(currentAddress)) {
-                result.add(String.join(".", currentAddress));
-                return;
-            }
+        if (index == s.length() && currentAddress.size() == 4) {
+            result.add(String.join(".", currentAddress));
+            return;
         }
         if (index >= s.length()) return;
         
@@ -35,16 +31,6 @@ class Solution {
                 currentAddress.remove(currentAddress.size() - 1);
             }
         }
-    }
-
-    boolean isValidAddress(List<String> address) {
-        if (address.size() != 4) return false;
-        for (String s : address) {
-            if (!isValidNumber(s)) {
-                return false;
-            }
-        }
-        return true;
     }
 
     boolean isValidNumber(String s) {
